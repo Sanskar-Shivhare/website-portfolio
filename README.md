@@ -1,3 +1,4 @@
-# website-portfolio
-here's my website with all my work [Open](
-https://sanskar-shivhare.github.io/website-portfolio/)
+# iGotABadIdea.github.io
+My Portfolio Website 
+<h3> This is my Portfolio Website </h3>
+<a href="https://igotabadidea.github.io/"><p>Visit here </p></a>

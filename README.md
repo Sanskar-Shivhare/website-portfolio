@@ -1,4 +1,3 @@
-# iGotABadIdea.github.io
-My Portfolio Website 
+# My Portfolio Website 
 <h3> This is my Portfolio Website </h3>
-<a href="https://igotabadidea.github.io/"><p>Visit here </p></a>
+<a href=""><p>Visit here </p></a>

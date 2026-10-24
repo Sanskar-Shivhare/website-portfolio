@@ -854,25 +854,6 @@ details[open] summary span {
   visibility:visible;
 }
 
-.portrait-pause {
-  position:absolute;
-  right:12px;
-  bottom:12px;
-  width:44px;
-  height:44px;
-  border:1px solid rgba(255,255,255,.6);
-  border-radius:50%;
-  background:var(--ink);
-  color:var(--white);
-  cursor:pointer;
-  font:18px var(--sans);
-}
-
-.portrait-pause:focus-visible {
-  outline:3px solid var(--orange);
-  outline-offset:3px;
-}
-
 @media(prefers-reduced-motion:reduce) {
   .portrait-photos img {
     transition:none;

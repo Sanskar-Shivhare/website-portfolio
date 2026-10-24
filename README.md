@@ -19,7 +19,7 @@ Then open http://127.0.0.1:8765/. No package installation or build is required.
 - `contact.html`: direct email and LinkedIn contact options.
 - `css/portfolio.css`: shared responsive styles, keyboard focus and reduced-motion support.
 
-All three pages remain readable without JavaScript. The About portrait carousel uses a small script to crossfade between photos every seven seconds, with a pause control, hover/focus pausing and respect for reduced-motion preferences. Without JavaScript, the first photo stays visible. Work summaries use native HTML disclosure controls. Contact links open an email client; the site does not submit or store messages.
+All three pages remain readable without JavaScript. The About portrait carousel uses a small script to crossfade between photos every seven seconds, with hover/focus pausing and respect for reduced-motion preferences. Without JavaScript, the first photo stays visible. Work summaries use native HTML disclosure controls. Contact links open an email client; the site does not submit or store messages.
 
 The site uses relative asset paths for GitHub Pages project hosting. Existing legacy template assets remain in the repository but are not loaded by these pages.
 

@@ -1,0 +1,14 @@
+.case-study { padding-block: 52px 64px; }
+.case-intro { max-width: 900px; margin-bottom: 48px; }
+.case-intro .eyebrow { margin-top: 42px; }
+.case-intro h1 { font: 400 clamp(40px,5vw,72px)/1.08 var(--serif); letter-spacing: -.035em; margin: 20px 0 28px; }
+.case-disclosure { background: var(--sage); border-left: 3px solid var(--ink); padding: 18px 22px; color: var(--body); }
+.case-figure { margin: 0 0 48px; }
+.case-figure img { width: 100%; height: auto; border: 1px solid var(--line); border-radius: 8px; }
+.case-figure figcaption { color: var(--body); font-size: 14px; padding-top: 14px; max-width: 920px; }
+.case-columns { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; padding: 12px 0 42px; }
+.case-columns h2 { font: 400 clamp(26px,3vw,38px)/1.15 var(--serif); margin: 14px 0 20px; }
+.case-columns p:not(.eyebrow) { color: var(--body); }
+.case-next { border-top: 1px solid var(--line); padding-top: 30px; }
+.case-next h2 { font: 400 clamp(28px,3vw,40px)/1.2 var(--serif); }
+@media(max-width:760px) { .case-columns { grid-template-columns: 1fr; gap: 20px; } .case-study { padding-top: 32px; } .case-intro br { display: none; } }
